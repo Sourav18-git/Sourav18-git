@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourav18-git
 - 👀 I’m interested in  Front-end development.
-- 🌱 I’m currently learning  Front-end development.
+- 🌱 I’m currently learning  React.
 - 💞️ I’m looking to collaborate on Front-end projects 
 - 📫 How to reach me ...Email:hatisourav17@gmail.com
 
